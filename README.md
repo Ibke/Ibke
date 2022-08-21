@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Ibke
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in full stack
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on any beginner friendly projects
+- 📫 How to reach me Rachael Oderinde on LinkedIn.
 
-<!---
-Ibke/Ibke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
